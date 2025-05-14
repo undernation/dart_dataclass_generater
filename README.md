@@ -1,2 +1,0 @@
-# dart_dataclass_generater
-dart_dataclass_generater
